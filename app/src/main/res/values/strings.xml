@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bottomnav</string>
+    <string name="title_login">Log In</string>
+    <string name="title_home">Home</string>
+    <string name="title_book">Book Room</string>
+    <string name="title_about">About Us</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
